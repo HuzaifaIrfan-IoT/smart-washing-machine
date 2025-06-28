@@ -29,6 +29,9 @@ Updated on 23 November 2023
 - [x] Develop Android App
 - [ ] Connect the System with Google Assistant
 
+## Schematics and PCB Design
+https://oshwlab.com/huzaifairfan2001/smart-washing-machine
+
 ## Hardware Overview
 
 - [Machine-Hardware](Machine-Hardware.md)

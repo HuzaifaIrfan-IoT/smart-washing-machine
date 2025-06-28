@@ -1,9 +1,6 @@
 
 # Controller Hardware
 
-## Schematics and PCB Design
-https://oshwlab.com/huzaifairfan2001/smart-washing-machine
-
 ## Features
 - 3.3v Output Pins to Control Power Relays
 - PC817 Optocoupler (Pull Up Low Trigger Relays if not operated)
