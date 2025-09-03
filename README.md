@@ -3,9 +3,9 @@
   <p><h3 align="center">Design, Development, Operation, and Maintenance of a Smart Washing Machine with Android App Control. 🚀</h3></p>
 </div>
 
-[Android App](https://github.com/HuzaifaIrfan-Mobile/smart_washing_machine_app)
+[Android App](https://github.com/HuzaifaIrfan-Mobile/smart-washing-machine-app)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-[Firmware](https://github.com/HuzaifaIrfan-Firmware/smart_washing_machine_esp8266)
+[Firmware](https://github.com/HuzaifaIrfan-Firmware/smart-washing-machine-esp8266)
 
 <hr>
 
