@@ -11,7 +11,6 @@
 
 Started on 9 November 2023
 
-Updated on 23 November 2023
 
 ## Demo Video
 
@@ -62,3 +61,5 @@ https://oshwlab.com/huzaifairfan2001/smart-washing-machine
 # 📜 License
 
 Licensed under the GPL3 License, Copyright 2025 Huzaifa Irfan. [LICENSE](LICENSE)
+
+Last Updated on 2023-11-23
