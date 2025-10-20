@@ -14,7 +14,7 @@ Started on 9 November 2023
 
 ## Demo Video
 
-[![Android Controlled Washing Machine](https://ytcards.demolab.com/?id=oTMUrj1S7qQ&title=Android+Controlled+Washing+Machine&lang=en&timestamp=1698796800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/shorts/oTMUrj1S7qQ)
+[![Android Controlled Washing Machine](https://ytcards.demolab.com/?id=ZOG02uKlICg&title=Android+Controlled+Washing+Machine&lang=en&timestamp=1698796800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/shorts/ZOG02uKlICg)
 
 ## Objective
 - Repair Old Fully Automatic Washing Machine at Home
