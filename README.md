@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>smart_washing_machine</h1>
+  <h1>Smart Washing Machine</h1>
   <p><h3 align="center">Design, Development, Operation, and Maintenance of a Smart Washing Machine with Android App Control. 🚀</h3></p>
 </div>
 
@@ -12,9 +12,10 @@
 Started on 9 November 2023
 
 
-## Demo Video
 
-[![Android Controlled Washing Machine](https://ytcards.demolab.com/?id=ZOG02uKlICg&title=Android+Controlled+Washing+Machine&lang=en&timestamp=1698796800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/shorts/ZOG02uKlICg)
+## 🎬 Demo
+
+[▶️![Demo](https://img.youtube.com/vi/0KOfMb7EBvc/maxresdefault.jpg)](https://www.youtube.com/watch?v=0KOfMb7EBvc)
 
 ## Objective
 - Repair Old Fully Automatic Washing Machine at Home
